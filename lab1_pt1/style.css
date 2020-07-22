@@ -1,0 +1,34 @@
+
+body, ul {
+    font-family: 'Open Sans', sans-serif;
+    background: #f9fafc;
+    margin:0;
+    padding:0;
+}
+.link {
+    text-decoration: none;
+    color: #69696a;
+    list-style: none;
+    margin: 20px;
+}
+h1, h3 {
+    margin-left: 20px;
+}
+.button {
+    display: block;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: #000;
+    color: #FFF;
+    padding: 14px 28px;
+    text-align: center;
+}
+main {
+    border-left: 2px solid #000;
+    margin-left: 20px;
+    padding-left: 30px;
+}
+
+
